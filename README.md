@@ -9,3 +9,4 @@
 Since all the images in train and test sets have tumors, we're not trying o detect tumors. we're trying to predict whether or not chemotherapy will be an effective treatment, and that is done by predicting the genetic subtype of glioblastoma, and more specifically the presence of MGMT promoter methylation.
 
 ### Data Set
+fjrij
