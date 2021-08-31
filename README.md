@@ -11,7 +11,7 @@ Since all the images in train and test sets have tumors, we're not trying o dete
 ### Data Set
 These 3 cohorts are structured as follows: Each independent case has a dedicated folder identified by a five-digit number. Within each of these “case” folders, there are four sub-folders, each of them corresponding to each of the structural multi-parametric MRI (mpMRI) scans, in DICOM format. The exact mpMRI scans included are:
 
-Fluid Attenuated Inversion Recovery (FLAIR)
-T1-weighted pre-contrast (T1w)
-T1-weighted post-contrast (T1Gd)
-T2-weighted (T2)
+Fluid Attenuated Inversion Recovery (FLAIR)  
+T1-weighted pre-contrast (T1w)  
+T1-weighted post-contrast (T1Gd)  
+T2-weighted (T2)  
