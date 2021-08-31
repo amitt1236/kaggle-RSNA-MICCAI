@@ -14,4 +14,18 @@ These 3 cohorts are structured as follows: Each independent case has a dedicated
 Fluid Attenuated Inversion Recovery (FLAIR)  
 T1-weighted pre-contrast (T1w)  
 T1-weighted post-contrast (T1Gd)  
-T2-weighted (T2)  
+T2-weighted (T2) 
+
+### DICOM
+DICOM® — Digital Imaging and Communications in Medicine — is the international standard for medical images and related information. It defines the formats for medical images that can be exchanged with the data and quality necessary for clinical use.
+
+**pydicom**[https://pydicom.github.io/pydicom/stable/]
+
+### Relevant papers for architecture ideas
+
+**TimeSformer**[https://arxiv.org/pdf/2102.05095.pdf]
+
+**TimeSformer implementation**[https://github.com/facebookresearch/TimeSformer]
+
+**ViViT: A Video Vision Transformer**[https://arxiv.org/pdf/2103.15691v1.pdf]
+
