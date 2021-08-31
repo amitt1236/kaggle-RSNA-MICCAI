@@ -29,3 +29,6 @@ DICOM® — Digital Imaging and Communications in Medicine — is the internatio
 
 **ViViT: A Video Vision Transformer**[https://arxiv.org/pdf/2103.15691v1.pdf]
 
+**A 3D densely connected convolution neural network with connection-wise attention mechanism for Alzheimer's disease classification**[https://www.sciencedirect.com/science/article/pii/S0730725X21000138]
+
+**An overview of deep learning in medical imaging focusing on MRI**[https://www.sciencedirect.com/science/article/pii/S0939388918301181]
