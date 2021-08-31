@@ -1,1 +1,1 @@
-# kaggle-RSNA-MICCAI
+# RSNA-MICCAI
