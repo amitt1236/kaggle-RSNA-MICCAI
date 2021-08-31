@@ -8,7 +8,7 @@
 
 Since all the images in train and test sets have tumors, we're not trying o detect tumors. we're trying to predict whether or not chemotherapy will be an effective treatment, and that is done by predicting the genetic subtype of glioblastoma, and more specifically the presence of MGMT promoter methylation.
 
-### Data Set
+## Data Set
 These 3 cohorts are structured as follows: Each independent case has a dedicated folder identified by a five-digit number. Within each of these “case” folders, there are four sub-folders, each of them corresponding to each of the structural multi-parametric MRI (mpMRI) scans, in DICOM format. The exact mpMRI scans included are:
 
 Fluid Attenuated Inversion Recovery (FLAIR)  
@@ -21,7 +21,7 @@ DICOM® — Digital Imaging and Communications in Medicine — is the internatio
 
 **pydicom**[https://pydicom.github.io/pydicom/stable/]
 
-### Relevant papers for architecture ideas
+## Relevant papers for architecture ideas
 
 **TimeSformer**[https://arxiv.org/pdf/2102.05095.pdf]
 
