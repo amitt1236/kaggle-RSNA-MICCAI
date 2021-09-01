@@ -25,6 +25,8 @@ DICOM® — Digital Imaging and Communications in Medicine — is the internatio
 
 **TimeSformer**[https://arxiv.org/pdf/2102.05095.pdf]
 
+**ViT-BERT**[https://arxiv.org/pdf/2106.08254.pdf]
+
 **ViViT: A Video Vision Transformer**[https://arxiv.org/pdf/2103.15691v1.pdf]
 
 **A 3D densely connected convolution neural network with connection-wise attention mechanism for Alzheimer's disease classification**[https://www.sciencedirect.com/science/article/pii/S0730725X21000138]
